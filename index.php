@@ -144,7 +144,7 @@ th, td {
 	<section>
 
 
-		<h1>OLA COMMAND CENTER - Incidents History</h1>
+		<h1> COMMAND CENTER - Incidents History</h1>
 
 		<!-- TABLE CONSTRUCTION -->
 		<table class="myTable">
